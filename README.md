@@ -4,7 +4,7 @@ MetaBooks.Me is a decentralized private metaverse reading platform. Help you eas
 
 ---------Tech---------
 
-book reading notes save on IPFS (ipfs-api)
+book reading notes etc. save on IPFS (ipfs-api)
 
  vue
  
